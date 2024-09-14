@@ -37,6 +37,9 @@ body{
     cursor: pointer;
     margin: 10px;
 }
+form .display input{
+    color: black;
+}
 form .display{
     display: flex;
     justify-content: flex-end;
